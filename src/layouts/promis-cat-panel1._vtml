@@ -1,0 +1,6 @@
+<div class="panel panel-default hidden" data-promis-cat-form-item-id="@@ FormItemOID @@">
+	<div class="panel-heading">@@ question @@</div>
+	<div class="panel-body radio">
+		@@ answers @@
+	</div>
+</div>

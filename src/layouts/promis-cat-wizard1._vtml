@@ -1,0 +1,4 @@
+<div class="text-center">
+  <button disabled type="button" value="previous" class="btn promis-cat-wizard1">@@ previous-question-label @@</button>
+  <button disabled type="button" value="next" class="btn promis-cat-wizard1">@@ next-question-label @@</button>
+</div>

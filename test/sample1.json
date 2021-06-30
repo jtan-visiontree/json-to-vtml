@@ -1,0 +1,38 @@
+[
+  {
+    "layout": "basic-block",
+    "sections": {
+      "content": "Meow"
+    }
+  },
+  {
+    "layout": "basic-block",
+    "sections": {
+      "content": {
+        "layout": "basic-block",
+        "sections": {
+          "content": "Woof"
+        }
+      }
+    }
+  },
+  {
+    "layout": "basic-block",
+    "sections": {
+      "content": [
+        {
+          "layout": "basic-block",
+          "sections": {
+            "content": "Mooo"
+          }
+        },
+        {
+          "layout": "basic-block",
+          "sections": {
+            "content": "Baaa"
+          }
+        }
+      ]
+    }
+  }
+]

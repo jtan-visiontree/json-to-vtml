@@ -1,0 +1,21 @@
+{
+  "name": "json-to-vtml",
+  "version": "1.0.0",
+  "description": "convert json to vtml",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@depot.visiontree.com:jtan/json-to-vtml.git"
+  },
+  "author": "Joshua Tan",
+  "license": "ISC",
+  "dependencies": {
+    "pretty": "^2.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+<div class="panel panel-default hidden" data-promis-cat-form-item-id="fin">
+  ${i:"oid@@ t-score-index @@", t:"h", c:"overall-t-score", l:"T-Score"}
+  ${i:"oid@@ confidence-interval-index @@", t:"h", c:"overall-confidence-interval", l:"Confidence Interval"}
+  <div class="panel-body med-team-only hidden promis-cat-results">
+  </div>
+  <div class="panel-footer submittable-only hidden">
+    Thank you and please click the <b>Submit Form</b> button.
+  </div>
+</div>

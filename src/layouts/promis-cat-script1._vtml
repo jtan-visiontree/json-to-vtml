@@ -1,0 +1,20 @@
+<script>
+
+  var promiscatData = {
+    formName: '@@ form-name @@',
+    isViewable: VTOC.analyze.form.isViewable(),
+    isViewedByMedTeam: VTOC.analyze.form.isViewedByMedTeam(),
+    answerUIDMap: @@ answer-uid-map @@
+  };
+
+</script>
+<script src="/include/js/promis-cat/src/promis-cat.js"></script>
+<script>
+
+  var features = window[ 'feature-config' ].features();
+
+  if ( 'promis-cat' in features ) {
+    features[ 'promis-cat' ].init( promiscatData );
+  }
+
+</script>
